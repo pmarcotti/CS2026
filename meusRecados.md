@@ -4,8 +4,8 @@
 
 ### Manhã
 - [ ] Acordar e tomar café da manhã
-- [ ] Escová os dentes
-- [ ] Tomar banho
+- [ ] Escovar os dentes
+- [ ] Tomar um banho rápido de gato
 - [ ] Verificar mensagens e e-mails
 - [ ] Planejar as tarefas do dia
 
