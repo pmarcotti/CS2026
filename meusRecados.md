@@ -3,14 +3,14 @@
 ## Tarefas do Dia a Dia
 
 ### Manhã
-- [ ] Acordar e tomar café da manhã
-- [ ] Escovar os dentes
+- [ ] Acordar e tomar chá medicinal
+- [ ] Escovar os dentes de baixo
 - [ ] Tomar um banho rápido de gato
 - [ ] Verificar mensagens e e-mails
 - [ ] Planejar as tarefas do dia
 
 ### Durante o Dia
-- [ ] Almoçar
+- [ ] Almoçar muito gorduroso
 - [ ] Beber água regularmente
 - [ ] Fazer exercício físico ou caminhada
 - [ ] Estudar ou trabalhar em projetos
