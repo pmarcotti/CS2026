@@ -5,6 +5,8 @@ Projeto com colaboração dos alunos:
 
 - Diego Godoi (preencher nome completo)
 - Carolina Giovana preencher 
+- Poliana
+- Fernanda Almeida 
 
 todos alunos devem criar o seu github e escrever abaixo qual o seu github
 por exemplo,
