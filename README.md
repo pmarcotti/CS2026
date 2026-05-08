@@ -3,7 +3,7 @@ Aula de GitHub
 Prof. Paulo Marcotti
 Projeto com colaboração dos alunos:
 
-- Daniel Godoi
+- Daniel Godoi (Godoi8622)
 - Carolina Giovana 
 - Poliana
 - Fernanda Almeida
