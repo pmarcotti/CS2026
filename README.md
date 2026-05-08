@@ -3,15 +3,15 @@ Aula de GitHub
 Prof. Paulo Marcotti
 Projeto com colaboração dos alunos:
 
-- Diego Godoi (preencher nome completo)
-- Carolina Giovana preencher 
+- Daniel Godoi
+- Carolina Giovana 
 - Poliana
 - Fernanda Almeida
 - Fernanda Bento
 - Vitor Cerejo
 - Mateus Ovibeira Lopes
 - Nayara Oliveira
-- Matheus Abiaqui
+- Matheus Abiaque
 - Amanda Lopes
 
 todos alunos devem criar o seu github e escrever abaixo qual o seu github
